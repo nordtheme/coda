@@ -1,7 +1,24 @@
+<!--
+Copyright (c) 2016-present Arctic Ice Studio <development@arcticicestudio.com>
+Copyright (c) 2016-present Sven Greb <code@svengreb.de>
+
+Project:    Nord Coda
+Repository: https://github.com/arcticicestudio/nord-java
+License:    MIT
+References
+  https://docs.travis-ci.com
+  https://maven.apache.org/guides
+  https://maven.apache.org/pom.html
+  https://maven.apache.org/enforcer/enforcer-rules/versionRanges.html
+  http://books.sonatype.com/mvnref-book/reference
+  https://bintray.com/docs/usermanual
+-->
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-title      Nord Coda                                    +
+title      Nord                                     +
 project    nord-coda                                    +
 repository https://github.com/arcticicestudio/nord-coda +
 version    0.1.0                                        +
