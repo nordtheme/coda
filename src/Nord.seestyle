@@ -52,11 +52,11 @@ Panic Coda
     <style id="/ASP-HTML/FunctionRegex"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/SingleComment2"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/Inline Javascript"
@@ -80,11 +80,11 @@ Panic Coda
     <style id="/XML/Single Strings in Tags"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Escaped Characters"
@@ -96,7 +96,7 @@ Panic Coda
     <style id="/ASP-HTML/Inline VBScript"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/HTML Comment Tag"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/Inline CSS"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/Style Tags"
@@ -116,9 +116,9 @@ Panic Coda
     <style id="/CSS/CSS Colors"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/CSS/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CSS/SingleString"
@@ -126,13 +126,13 @@ Panic Coda
     <style id="/CSS/URL"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/HTMLComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ASP-HTML/ASP Include"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/XML/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="bold"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="bold"/>
     <style id="/XML/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/XML/Escape"
@@ -178,11 +178,11 @@ Panic Coda
     <style id="/Actionscript/Preprocessor"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/Actionscript/JavadocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Actionscript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Actionscript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Actionscript/Double Quoted String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Actionscript/Single Quoted String"
@@ -198,7 +198,7 @@ Panic Coda
     <style id="/Apache/Block directives"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/Apache/Singleline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
   </mode>
 
   <mode id="SEEMode.AppleScript">
@@ -224,9 +224,9 @@ Panic Coda
     <style id="/AppleScript/Characters"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/AppleScript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/AppleScript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/AppleScript/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
   </mode>
@@ -252,7 +252,7 @@ Panic Coda
     <style id="/C/Preprocessor"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/C/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/String with double quotes"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/C/String with single quotes"
@@ -276,11 +276,11 @@ Panic Coda
     <style id="/C/Preprocessor"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/C/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
   </mode>
@@ -294,11 +294,11 @@ Panic Coda
     <style id="/C#/Numbers"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/C#/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C#/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C#/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C#/Region"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/C#/String"
@@ -320,11 +320,11 @@ Panic Coda
     <style id="/C++/Preprocessor"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/C++/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C++/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C++/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C++/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
   </mode>
@@ -362,9 +362,9 @@ Panic Coda
     <style id="/XML/Single Strings in Tags"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CFML/Single Line Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CFML/Multi Line Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CFML/CFML Strings"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CFML/Output Variables in Strings"
@@ -390,9 +390,9 @@ Panic Coda
     <style id="/CSS/CSS Colors"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/CSS/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CSS/SingleString"
@@ -414,11 +414,11 @@ Panic Coda
     <style id="/CFML/Opening Script Tag"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Escaped Characters"
@@ -428,13 +428,13 @@ Panic Coda
     <style id="/Javascript/SingleString"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CFML/CFML Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="bold"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="bold"/>
     <style id="/XML/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/XML/Escape"
@@ -454,7 +454,7 @@ Panic Coda
     <style id="/SQL/FunctionRegex"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/CFML/Query Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CFML/Opening Query Tag"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/CFML/CFML Attributes in Tags"
@@ -496,9 +496,9 @@ Panic Coda
     <style id="/CoffeeScript/Property"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/CoffeeScript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CoffeeScript/Single Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CoffeeScript/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CoffeeScript/Interpolated Values"
@@ -528,11 +528,11 @@ Panic Coda
     <style id="/XML/Single Strings in Tags"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Escaped Characters"
@@ -560,9 +560,9 @@ Panic Coda
     <style id="/CSS/CSS Colors"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/CSS/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CSS/SingleString"
@@ -624,23 +624,23 @@ Panic Coda
     <style id="/Ruby/Strings with parenthesis"
            color="#D08770" inverted-color="#D08770" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Heredoc"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Backticks"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Singleline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Regexp"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Escaped Characters"
            color="#D08770" inverted-color="#D08770" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/POD Comments"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ERB/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ERB/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ERB/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="bold"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="bold"/>
     <style id="/ERB/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/ERB/Escape"
@@ -660,7 +660,7 @@ Panic Coda
     <style id="/CSS/CSS Keywords"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/ERB/CSSComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ERB/CSSRound bracket"
            color="#ECEFF4" inverted-color="#ECEFF4" font-style="normal" font-weight="normal"/>
     <style id="/ERB/CSSString"
@@ -682,11 +682,11 @@ Panic Coda
     <style id="/ERB/Opening Script Tag"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/ERB/JSAutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ERB/JSComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ERB/JSSingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/ERB/JSRegEx"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/ERB/JSEscaped Characters"
@@ -704,9 +704,9 @@ Panic Coda
            color="#ECEFF4" inverted-color="#ECEFF4" font-style="normal" font-weight="normal" background-color="#2E3440"
            inverted-background-color="#2E3440"/>
     <style id="/HAML Syntax/HTML Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/HAML Syntax/HAML Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/HAML Syntax/HTML Element"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/HAML Syntax/interpolated ruby"
@@ -758,17 +758,17 @@ Panic Coda
     <style id="/Ruby/Strings with parenthesis"
            color="#D08770" inverted-color="#D08770" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Heredoc"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Backticks"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Singleline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Regexp"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Escaped Characters"
            color="#D08770" inverted-color="#D08770" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/POD Comments"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/HAML Syntax/Ruby Hash Attribute"
            color="#8FBCBB" inverted-color="#8FBCBB" font-style="normal" font-weight="normal"/>
   </mode>
@@ -804,9 +804,9 @@ Panic Coda
     <style id="/CSS/CSS Colors"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/CSS/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CSS/SingleString"
@@ -828,11 +828,11 @@ Panic Coda
     <style id="/HTML/Opening Script Tag"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Escaped Characters"
@@ -842,11 +842,11 @@ Panic Coda
     <style id="/Javascript/SingleString"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/XML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/XML/Escape"
@@ -872,13 +872,13 @@ Panic Coda
     <style id="/Java/Characters"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Java/JavadocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Java/JavadocTags"
            color="#8FBCBB" inverted-color="#8FBCBB" font-style="normal" font-weight="normal"/>
     <style id="/Java/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Java/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Java/Strings"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
   </mode>
@@ -896,11 +896,11 @@ Panic Coda
     <style id="/Javascript/FunctionRegex"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Escaped Characters"
@@ -924,11 +924,11 @@ Panic Coda
     <style id="/jQuery/FunctionRegex"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/jQuery/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/jQuery/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/jQuery/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/jQuery/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/jQuery/Escaped Characters"
@@ -946,7 +946,7 @@ Panic Coda
     <style id="/XML/Entities"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/JSP-HTML/JSP Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/JSP-HTML/JSP"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/JSP-HTML/JSP Delimiter"
@@ -962,9 +962,9 @@ Panic Coda
     <style id="/JSP-HTML/Preprocessor"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/JSP-HTML/Single Line Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/JSP-HTML/Multi Line Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/JSP-HTML/JSP Strings"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/JSP-HTML/JSP Tags"
@@ -994,9 +994,9 @@ Panic Coda
     <style id="/CSS/CSS Colors"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/CSS/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CSS/SingleString"
@@ -1018,11 +1018,11 @@ Panic Coda
     <style id="/HTML/Opening Script Tag"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Escaped Characters"
@@ -1032,11 +1032,11 @@ Panic Coda
     <style id="/Javascript/SingleString"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/XML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/XML/Escape"
@@ -1070,9 +1070,9 @@ Panic Coda
     <style id="/LassoScript-HTML/Variables"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/LassoScript-HTML/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/LassoScript-HTML/MultiComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/LassoScript-HTML/StringDouble"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/LassoScript-HTML/String"
@@ -1082,7 +1082,7 @@ Panic Coda
     <style id="/LassoScript-HTML/Inline CSS"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/LassoScript-HTML/HTML Comment Tag"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/LassoScript-HTML/Style Tags"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/LassoScript-HTML/Opening Style Tag"
@@ -1106,9 +1106,9 @@ Panic Coda
     <style id="/CSS/CSS Colors"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/CSS/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CSS/SingleString"
@@ -1118,7 +1118,7 @@ Panic Coda
     <style id="/LassoScript-HTML/Inline Javascript"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/LassoScript-HTML/HTML Comment Tag2"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/LassoScript-HTML/Script Tags"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Keywords"
@@ -1132,11 +1132,11 @@ Panic Coda
     <style id="/LassoScript-HTML/Opening Script Tag"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Escaped Characters"
@@ -1146,11 +1146,11 @@ Panic Coda
     <style id="/Javascript/SingleString"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/XML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/XML/Escape"
@@ -1182,7 +1182,7 @@ Panic Coda
     <style id="/TeX/Functions"
            color="#88C0D0" inverted-color="#88C0D0" font-style="normal" font-weight="normal"/>
     <style id="/TeX/Singleline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
   </mode>
 
   <mode id="SEEMode.LESS">
@@ -1208,11 +1208,11 @@ Panic Coda
     <style id="/LESS/LESS Colors"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/LESS/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/LESS/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/LESS/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/LESS/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/LESS/SingleString"
@@ -1242,9 +1242,9 @@ Panic Coda
     <style id="/Lua/Numbers"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/Lua/Multiline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Lua/Singleline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Lua/Multiline String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Lua/String with single quotes"
@@ -1272,11 +1272,11 @@ Panic Coda
     <style id="/C/Atoms, functions, and quotes"
            color="#88C0D0" inverted-color="#88C0D0" font-style="normal" font-weight="normal"/>
     <style id="/C/(quasi)-quotes"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/Comments"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
   </mode>
@@ -1374,11 +1374,11 @@ Panic Coda
     <style id="/Objective-C/Preprocessor"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/Objective-C/Autodoc Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Objective-C/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Objective-C/Singleline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Objective-C/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
   </mode>
@@ -1412,11 +1412,11 @@ Panic Coda
     <style id="/Objective-J/Characters"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Objective-J/Autodoc Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Objective-J/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Objective-J/Single Line Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Objective-J/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
   </mode>
@@ -1438,11 +1438,11 @@ Panic Coda
     <style id="/C/Preprocessor"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/C/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/Comment Curly"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/C/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
   </mode>
@@ -1486,9 +1486,9 @@ Panic Coda
     <style id="/Perl/Backticks"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Perl/POD style comments"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Perl/Singleline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Perl/String with double quotes"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Perl/Variables in strings"
@@ -1542,13 +1542,13 @@ Panic Coda
     <style id="/PHP-HTML/Function Name"
            color="#88C0D0" inverted-color="#88C0D0" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/PHP Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/Docblock Annotations"
            color="#D08770" inverted-color="#D08770" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/TODO"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="bold"/>
     <style id="/PHP-HTML/PHP SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/PHP String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/Escaped Characters"
@@ -1562,11 +1562,11 @@ Panic Coda
     <style id="/PHP-HTML/PHP Heredoc"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="bold"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="bold"/>
     <style id="/PHP-HTML/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/Escape"
@@ -1594,7 +1594,7 @@ Panic Coda
     <style id="/CSS/CSS Colors"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/CSSComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/CSSRound bracket"
            color="#ECEFF4" inverted-color="#ECEFF4" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/CSSString"
@@ -1616,11 +1616,11 @@ Panic Coda
     <style id="/PHP-HTML/Opening Script Tag"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/JSAutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/JSComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/JSSingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/JSRegEx"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/PHP-HTML/JSEscaped Characters"
@@ -1654,7 +1654,7 @@ Panic Coda
     <style id="/Python/Numbers"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/Python/Singleline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Python/String with triple double quotes"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Python/String with triple single quotes"
@@ -1714,17 +1714,17 @@ Panic Coda
     <style id="/Ruby/Strings with parenthesis"
            color="#D08770" inverted-color="#D08770" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Heredoc"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Backticks"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Singleline Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Regexp"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/Escaped Characters"
            color="#D08770" inverted-color="#D08770" font-style="normal" font-weight="normal"/>
     <style id="/Ruby/POD Comments"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
   </mode>
 
   <mode id="SEEMode.Sass">
@@ -1748,11 +1748,11 @@ Panic Coda
     <style id="/Sass/Sass functions"
            color="#88C0D0" inverted-color="#88C0D0" font-style="normal" font-weight="normal"/>
     <style id="/CSS/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Sass/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Sass/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Sass/Interpolation"
@@ -1770,7 +1770,7 @@ Panic Coda
     <style id="/XML/Entities"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Smarty/Smarty Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Smarty/Smarty Command"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Smarty/Smarty Block"
@@ -1816,11 +1816,11 @@ Panic Coda
     <style id="/XML/Single Strings in Tags"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Escaped Characters"
@@ -1848,9 +1848,9 @@ Panic Coda
     <style id="/CSS/CSS Colors"
            color="#B48EAD" inverted-color="#B48EAD" font-style="normal" font-weight="normal"/>
     <style id="/CSS/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/CSS/String"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/CSS/SingleString"
@@ -1858,11 +1858,11 @@ Panic Coda
     <style id="/CSS/URL"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/XML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="bold"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="bold"/>
     <style id="/XML/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/XML/Escape"
@@ -1896,11 +1896,11 @@ Panic Coda
     <style id="/SQL/FunctionRegex"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/SQL/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/SQL/Single Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/SQL/Singleline Comment (mysql)"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/SQL/String Singlequoted"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/SQL/String with Backticks"
@@ -1928,13 +1928,13 @@ Panic Coda
     <style id="/Twig-HTML/Filters"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/Twig Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="bold"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="bold"/>
     <style id="/Twig-HTML/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/Escape"
@@ -1966,11 +1966,11 @@ Panic Coda
     <style id="/Twig-HTML/Opening Script Tag"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/JSAutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/JSComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/JSSingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/JSRegEx"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Twig-HTML/JSEscaped Characters"
@@ -1990,11 +1990,11 @@ Panic Coda
     <style id="/XML/Entities"
            color="#81A1C1" inverted-color="#81A1C1" font-style="normal" font-weight="normal"/>
     <style id="/XML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/SGML Double Dash"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/CDATA"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/XML/Doctype"
            color="#5E81AC" inverted-color="#5E81AC" font-style="normal" font-weight="normal"/>
     <style id="/XML/Escape"
@@ -2020,7 +2020,7 @@ Panic Coda
     <style id="/YAML/Variables"
            color="#D8DEE9" inverted-color="#D8DEE9" font-style="normal" font-weight="normal"/>
     <style id="/YAML/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/YAML/TODO"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="bold"/>
     <style id="/YAML/String"
@@ -2046,11 +2046,11 @@ Panic Coda
     <style id="/XML/Single Strings in Tags"
            color="#A3BE8C" inverted-color="#A3BE8C" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/AutodocComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Comment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/SingleComment"
-           color="#4C566A" inverted-color="#4C566A" font-style="normal" font-weight="normal"/>
+           color="#616E88" inverted-color="#616E88" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Regular Expressions"
            color="#EBCB8B" inverted-color="#EBCB8B" font-style="normal" font-weight="normal"/>
     <style id="/Javascript/Escaped Characters"
